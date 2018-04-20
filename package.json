@@ -1,0 +1,19 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "curso tdd com js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvisirineu/js-tdd.git"
+  },
+  "author": "Elvis Irineu ELIAS <elvisirineu@gmail.com> (http://www.elvisirineu.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elvisirineu/js-tdd/issues"
+  },
+  "homepage": "https://github.com/elvisirineu/js-tdd#readme"
+}
